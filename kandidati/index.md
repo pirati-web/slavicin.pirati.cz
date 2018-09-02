@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pirátští kandidáti do zastupitelstva města UH
+title: Kandidátka mladých s podporou Pirátů
 rbar: ""
 ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets/img/miscellaneous/fbkandidati.jpg
 ---
