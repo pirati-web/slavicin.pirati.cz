@@ -1,4 +1,4 @@
-# jihomoravsky.pirati.cz
+# slavicin.pirati.cz
 
 Naklonovaný web pirati.cz, z kterého vychází web JmK. Níže následuje obsah copypastovaný z centrální verze.
 ## Lokální spuštění
